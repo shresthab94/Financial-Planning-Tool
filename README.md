@@ -1,4 +1,4 @@
-# Week-5-Challange-Financial-planning-tools
+PythonChallange-Financial-planning-tools
 The application utilizes API to access financial data to analyze and simulate scenarios to better plan portfolio consisting of crypto, stocks, and bond.
 
 
